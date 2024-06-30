@@ -1,0 +1,6 @@
+[submodule "preprocessing"]
+	path = preprocessing
+	url = https://github.com/shalex88/gst-plugin-python
+[submodule "postprocessing"]
+	path = postprocessing
+	url = https://github.com/shalex88/gst-plugin-python
